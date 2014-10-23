@@ -16,3 +16,4 @@ Getting started
 6. bower install
 7. node server.js (indien nodig toegang toestaan in windows firewall)
 8. open de app op [http://localhost:3000] (http://localhost:3000)
+9. klik op start
